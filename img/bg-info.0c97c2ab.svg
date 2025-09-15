@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1329" height="606.729" viewBox="0 0 1329 606.729">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectángulo_422569" data-name="Rectángulo 422569" width="1329" height="606.729" transform="translate(136 2008.884)" fill="#4214ae"/>
+    </clipPath>
+  </defs>
+  <g id="Grupo_1226897" data-name="Grupo 1226897" transform="translate(-136 -2008.884)">
+    <rect id="Rectángulo_422549" data-name="Rectángulo 422549" width="1329" height="606.729" transform="translate(136 2008.884)" fill="#4214ae"/>
+    <g id="Enmascarar_grupo_1181315" data-name="Enmascarar grupo 1181315" clip-path="url(#clip-path)">
+      <circle id="Elipse_12860" data-name="Elipse 12860" cx="133" cy="133" r="133" transform="translate(1334 2071)" fill="#3b0da5"/>
+      <g id="Grupo_1226896" data-name="Grupo 1226896" transform="translate(0 -33)">
+        <circle id="Elipse_12859" data-name="Elipse 12859" cx="133" cy="133" r="133" transform="translate(26 2212)" fill="#3b0da5"/>
+        <g id="Elipse_12861" data-name="Elipse 12861" transform="translate(0 2186)" fill="none" stroke="#3b0da5" stroke-width="2">
+          <circle cx="159" cy="159" r="159" stroke="none"/>
+          <circle cx="159" cy="159" r="158" fill="none"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
