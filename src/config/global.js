@@ -111,21 +111,6 @@ export default {
         'Omaña, M. (2012). Manufactura esbelta: una contribución para el desarrollo de software con calidad: ( ed.). Red Enlace.',
       link: 'https://elibro.net/es/lc/tecnologicadeloriente/titulos/98547',
     },
-    {
-      referencia:
-        'Labrador, E. & Márquez Moreno, J. (2023). UX para empresas: (1 ed.). FC Editorial.',
-      link: 'https://elibro.net/es/lc/tecnologicadeloriente/titulos/275487',
-    },
-    {
-      referencia:
-        'Pintos Fernández, J. (2023). Aplicación de técnicas de usabilidad y accesibilidad en el entorno cliente. IFCD0210: (1 ed.). IC Editorial.',
-      link: 'https://elibro.net/es/ereader/tecnologicadeloriente/249858?page=1',
-    },
-    {
-      referencia:
-        'Torres Burriel, D. (2018). Usabilidad: deja de sufrir: ( ed.). Difusora Larousse - Anaya Multimedia.',
-      link: 'https://elibro.net/es/lc/tecnologicadeloriente/titulos/122938',
-    },
   ],
   glosario: [
     {
