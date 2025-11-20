@@ -29,7 +29,7 @@ export default {
         nombreRuta: 'tema3',
         icono: 'far fa-file-alt',
         numero: '3',
-        titulo: 'Métodos de prueba de usabilidad',
+        titulo: 'Pruebas de integración',
         desarrolloContenidos: true,
       },
       {
